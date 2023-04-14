@@ -1,7 +1,7 @@
 # 휴대폰 영상을 이용한 종아리 둘레 측정 방법 개발
 
 ### :pushpin: Streamlit Deploy
-👋 [Demo App](https://suptudy-calf-app-x5u5wa.streamlit.app/)
+👋 [Demo App](https://ipis-calf.streamlit.app/)
 
 ### :pushpin: 프로젝트 개요
 휴대폰을 이용해 촬영한 종아리의 앞면, 옆면 영상으로 종아리 둘레를 예측한다.
